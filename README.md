@@ -38,7 +38,8 @@ cd repo-del-proyecto
 3. Ejecuta/Construye la imagen de Docker:
 
 ```bash
-docker compose up -d
+docker compose -f "docker_compose.yml" up -d --build
+
 ```
 
 4. Accede a la aplicación en tu navegador en `http://localhost:3000`.

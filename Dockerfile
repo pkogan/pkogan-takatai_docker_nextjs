@@ -3,6 +3,7 @@ RUN mkdir -p /app
 RUN mkdir -p /app/test
 COPY /app /app
 WORKDIR /app/test
+RUN  npm install
 CMD ["npm", "run", "dev"]
 
 #descargar imagen node
