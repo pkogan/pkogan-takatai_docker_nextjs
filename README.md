@@ -26,7 +26,7 @@ Antes de ejecutar este proyecto, asegúrate de tener los siguientes requisitos p
 1. Clona el repositorio:
 
 ```shell
-git clone https://github.com/tu-nombre-de-usuario/repo-del-proyecto.git
+git clone https://github.com/pkogan/pkogan-takatai_docker_nextjs.git
 ```
 
 2. Ingresa al directorio del proyecto:
@@ -42,6 +42,8 @@ docker compose up -d
 ```
 
 4. Accede a la aplicación en tu navegador en `http://localhost:3000`.
+
+![imagen aplicación](https://raw.githubusercontent.com/pkogan/pkogan-takatai_docker_nextjs/main/assets/takatai.png)
 
 ## Uso
 

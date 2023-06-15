@@ -27,7 +27,7 @@ Before running this project, ensure that you have the following prerequisites in
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/project-repo.git
+git clone https://github.com/pkogan/pkogan-takatai_docker_nextjs.git
 ```
 
 2. Change into the project directory:
