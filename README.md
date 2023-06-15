@@ -50,7 +50,7 @@ docker compose -f "docker_compose.yml" up -d --build
 
 Este es un proyecto de Docker y [Next.js](https://nextjs.org/) para practicar.
 
-Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el resultado. Haz clic en el botón "Tirar" (shuffle).
+Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el resultado. Haz clic en el botón "Tirar" (shuffle) mostrará 10 jugadas de duplas de pokemones aleatorias.
 
 ## Arquitectura
 
