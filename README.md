@@ -35,9 +35,10 @@ git clone https://github.com/pkogan/pkogan-takatai_docker_nextjs.git
 cd repo-del-proyecto
 ```
 
-3. Ejecuta/Construye la imagen de Docker:
+3. Descargar imagen node y Ejecuta/Build la imagen de Docker:
 
 ```bash
+docker pull node:18.16.0-alpine3.18
 docker compose -f "docker_compose.yml" up -d --build
 
 ```
